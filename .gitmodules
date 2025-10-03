@@ -1,0 +1,3 @@
+[submodule "ACTION-Software-for-Functional-MRI-Analysis"]
+	path = ACTION-Software-for-Functional-MRI-Analysis
+	url = https://github.com/mxliu/ACTION-Software-for-Functional-MRI-Analysis
